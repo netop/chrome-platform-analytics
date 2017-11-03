@@ -1,0 +1,29 @@
+{
+  "name": "chrome-platform-analytics",
+  "version": "1.0.0",
+  "description": "javascript library supporting the use fo GA from Chrome Platform Applications and Extensions",
+  "main": "google-analytics-bundle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Radu-Dunarentu/chrome-platform-analytics.git"
+  },
+  "keywords": [
+    "GA",
+    "google",
+    "analytics",
+    "platform",
+    "application",
+    "extensions",
+    "javascript",
+    "library"
+  ],
+  "author": "Cici",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Radu-Dunarentu/chrome-platform-analytics/issues"
+  },
+  "homepage": "https://github.com/Radu-Dunarentu/chrome-platform-analytics#readme"
+}
