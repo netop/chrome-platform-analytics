@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Radu-Dunarentu/chrome-platform-analytics.git"
+    "url": "git+https://github.com/netop/chrome-platform-analytics.git"
   },
   "keywords": [
     "GA",
@@ -20,10 +20,10 @@
     "javascript",
     "library"
   ],
-  "author": "Cici",
+  "author": "google",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Radu-Dunarentu/chrome-platform-analytics/issues"
+    "url": "https://github.com/netop/chrome-platform-analytics/issues"
   },
-  "homepage": "https://github.com/Radu-Dunarentu/chrome-platform-analytics#readme"
+  "homepage": "https://github.com/netop/chrome-platform-analytics#readme"
 }
